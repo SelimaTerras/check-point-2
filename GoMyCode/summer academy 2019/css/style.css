@@ -1,0 +1,62 @@
+body{
+    background-image:Linear-gradient(127deg, rgb(114, 18, 18), rgba(92, 10, 10, 0.877) 70.71%);
+    font-family: Georgia,'Times New Roman', Times, serif;
+}
+*{margin: 0px;}
+.head {
+    display:inline;
+}
+.headline{
+    color: white;
+    font-size:56px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  display:inline;
+}
+.headline:hover{
+    color: red;
+}
+h1{
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.courses{
+    
+text-align: center;
+
+}
+.label{
+    color:white;
+    size:72px;
+font-family: Georgia, 'Times New Roman', Times, serif }
+    
+.courses{
+    
+}
+.head2{
+    height: 500;
+    background-image:url("https://cdn-images-1.medium.com/max/1200/1*9ChtQEhsF_H90kT8YNeNlg.jpeg");
+    
+}
+.Italic:hover {
+    color:yellowgreen;
+}
+li{
+    display: inline-block;
+    padding-top: 10px;
+    padding-right: 30px; 
+    padding-left: 50px;
+    padding-bottom:10px; 
+}
+.img2,.img3{
+    width: 100%
+}
+.logo{
+    height:100px;
+    width: 100px;
+    float: left;    
+}
+.ul{
+
+    display flex;
+    display: inline;
+}
